@@ -3,7 +3,7 @@
 export default function Header() {
     
 
-    return (
+    return ( 
         <>
             <nav className='relative container mx-auto p-6'>
       {/* flex container */}

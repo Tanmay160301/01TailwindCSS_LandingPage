@@ -5,7 +5,7 @@ export default function Testimonials() {
 
     return (
         <>
-            <section id="Testimonials" className="mx-40">
+            <section id="Testimonials" className="mx-40"> 
                 <div className="container mx-auto p-6 space-y-12 flex flex-col">
                     {/* Title */}
                     <h1 className="text-4xl font-bold  text-center mb-10">Whats Different about Manage?</h1>

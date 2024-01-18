@@ -12,7 +12,7 @@ export default function FeatureModified() {
                         <h1 className="text-4xl font-bold md:text-left md:w-64">Whats different about Manage?</h1>
                         <p className="text-center text-gray-400  md:text-left md:max-w-sm">Manage provides all the functionality your team needs, without the complexity. Our software is tailor-made for modern digital product teams.</p>
                     </div>
-                    {/* right item */}
+                    {/* right item */} 
                     <div className="flex flex-col space-y-6   md:w-1/2">
                         <div className="bg-orange-300 rounded-l-full flex items-center md:bg-transparent md:flex-row ">
                         <a href="#" className="px-4 py-1  h-8 text-center bg-orange-600 text-white rounded-full   hover:bg-orange-700 mr-6">01</a>
