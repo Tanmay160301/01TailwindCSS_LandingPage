@@ -3,6 +3,8 @@ import Hero from './components/Hero'
 // import Feature from './components/Feature'
 import Testimonials from './components/Testimonials'
 import FeatureModified from './components/FeatureModified'
+import CTA from './components/CTA'
+import Footer from './components/Footer'
 import './App.css'
 
 function App() {
@@ -15,6 +17,8 @@ function App() {
     {/* <Feature></Feature> */}
     <FeatureModified></FeatureModified>
     <Testimonials></Testimonials>
+    <CTA></CTA>
+    <Footer></Footer>
 
     </>
   )

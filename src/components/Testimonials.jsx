@@ -10,7 +10,7 @@ export default function Testimonials() {
                     {/* Title */}
                     <h1 className="text-4xl font-bold  text-center mb-10">Whats Different about Manage?</h1>
                     {/* Testinomials */}
-                    <div className="flex flex-col text-center  md:flex-row md:space-x-6 ">
+                    <div className="flex flex-col text-center   md:flex-row md:space-x-6 ">
                     <div className="pb-16 mt-14 mb-14 bg-gray-100 space-y-6 md:w-1/3 rounded-lg">
                         <div className=" flex justify-center -mt-12">
                             <img src="./img/avatar-anisha.png" className="h-20" alt="" />
@@ -34,7 +34,7 @@ export default function Testimonials() {
                         </div>
                     </div>
                     {/* Button */}
-                    <div className="flex justify-center">
+                    <div className="flex justify-center flex-shrink-0">
                     <a href="#" className="max-w-32 ml-7 bg-orange-600 text-white rounded-full px-4 py-3  hover:bg-orange-700 md:">Get Started</a>
 
                     </div>
