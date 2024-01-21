@@ -6,7 +6,7 @@ export default function CTA() {
     return (
         <>
             <section id="CTA" className="w-full bg-orange-600 py-10 md:py-0">
-                <div className="container mx-auto flex flex-col items-center justify-around space-y-5 text-center bg-orange-600 h-[170px] md:text-left md:flex-row">
+                <div className="container mx-auto flex flex-col items-center justify-between space-y-5 text-center bg-orange-600 h-[170px] md:text-left md:flex-row">
                 {/* text */}
                 <h1 className="text-4xl font-bold  text-white">Simplify how your team works today</h1>
                 {/* button */}
